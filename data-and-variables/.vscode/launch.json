@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://github.com/YazmeneTrue/javascript-projects.git",
+            "request": "launch",
+            "url": "https://github.com/YazmeneTrue/javascript-projects.git"
+        }
+    ]
+}
